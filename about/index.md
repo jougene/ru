@@ -1,37 +1,39 @@
 ---
 layout: page
-title: "About"
-date:  2014-11-19 21:50:53
----
+title: "Обо мне"
+--------------------------
 
-#### Hi, I'm Nithin!
+# Обо мне
 
-I'm a programmer living in Ottawa, Canada,
-and I work at [Shopify](https://www.shopify.com/).
+Hello World: 1991<br>
+Hello IT: 2018
 
-Before joining Shopify, I co-founded
-[WowMakers](http://www.wowmakers.com/) and
-[CrowdStudio.in](https://www.crowdstudio.in/)
-in Kochi, India.
-There I was part of the Rubyconf India team in 2016 and 2017,
-and also used to help organize the Kochi Ruby meetups &mdash;
-and the Chennai.rb meetups when I lived in Chennai.
+## Бэкенд
 
-On the interwebs, you can find me here:
-[Github](http://github.com/nithinbekal),
-[Twitter](http://twitter.com/nithinbekal),
-[LinkedIn](https://www.linkedin.com/in/nithinbekal),
-[Goodreads](https://www.goodreads.com/user/show/1059476-nithin-bekal).
+Могу, умею, практикую:
+* PHP
+* NodeJS
+* TypeScript
 
-If you're looking for stuff to read on this site,
-you might want to look at some of the more popular Ruby related articles here:
+И всё сопутствующее: docker, postgresql, linux, etc...
 
-- [Flip Flop Operator in Ruby](/posts/ruby-flip-flop)
-- [Tail Call Optimization in Ruby](/posts/ruby-tco)
-- [Writing Ruby Gems](/posts/writing-gems)
-- [Decorator Pattern in Ruby](/posts/ruby-decorators)
-- [Memoization in Ruby using Metaprogramming](/posts/ruby-memoization)
-- [The Law of Demeter](/posts/demeter)
+Планирую и дальше развиваться в направлении backend и изучить ещё один язык программирования (go / kotlin / racket / elixir / ruby) самостоятельно или в рамках рабочих задач.
 
-You can find the complete list of posts [here](/).
-You can also find the slides from my talks at the Kochi Ruby and JS meetups [here](/slides/).
+
+## Контент
+
+Пишу статьи:
+* <a href="https://habr.com/ru/users/melodyn/posts">habr.com/users/melodyn/posts</a>
+
+Провёл стрим:
+* <a href="https://www.youtube.com/watch?v=LC-NdvcfE2A&list=LL6W_u37pEhDonQu4O_6JOeQ">youtube.com/watch?v=LC-NdvcfE2A&list=LL6W_u37pEhDonQu4O_6JOeQ</a>
+
+Периодически совершаю набеги на курсы за новыми знаниями, прогресс можно увидеть тут:
+* <a href="https://ru.hexlet.io/u/melodyn">hexlet.io/u/melodyn</a>
+
+## Контакты
+
+Люблю недвусмысленность и цитируемость слов, что недоступно телефонным звонкам в настоящее время. Поэтому лучший способ связи - текст, желательно, без [метавопросов](https://nometa.xyz/). Важные (для меня) предложения присылайте на электронную почту: <a href="mailto:samelodyn@gmail.com">samelodyn@gmail.com</a> а для остального есть <s>мастеркард</s>:
+
+* <a href="https://github.com/Melodyn" target="_blank">github.com/Melodyn</a>
+* <a href="https://vk.com/melodyn" target="_blank">vk.com/melodyn</a>

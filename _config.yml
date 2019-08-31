@@ -1,16 +1,14 @@
-
-name: Nithin Bekal
-title: Nithin Bekal
-description: "Nithin Bekal's blog about programming - Ruby, Rails, Vim, Elixir."
-url: https://nithinbekal.com
+name: Сергей Мелодин
+title: Сергей Мелодин
+description: "Блог"
+url: https://melodyn.ru
 highlighter: rouge
 permalink: /posts/:title/
 markdown: kramdown
 
 theme_options:
-  disqus_shortname: nithinbekal
-  google_analytics: UA-2095438-7
-  twitter_handle: nithinbekal
+  disqus_shortname: https-melodyn-ru
+  google_analytics: UA-146848421-1
 
 sass:
   sass_dir: _sass
