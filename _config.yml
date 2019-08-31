@@ -1,13 +1,12 @@
 name: Сергей Мелодин
 title: Сергей Мелодин
-description: "Блог"
+description: "Писатель кода, статей, стихов."
 url: https://melodyn.ru
 highlighter: rouge
 permalink: /posts/:title/
 markdown: kramdown
 
 theme_options:
-  disqus_shortname: https-melodyn-ru
   google_analytics: UA-146848421-1
 
 sass:

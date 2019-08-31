@@ -5,8 +5,6 @@ title: "Обо мне"
 
 # Обо мне
 
-Сергей Мелодин
-
 ![фото со мной и моим ником](/assets/img/me_site.png)
 
 Hello World: 1991<br>
