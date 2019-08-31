@@ -6,17 +6,8 @@
     <meta name="author" content="Сергей Мелодин">
     <meta name="description" content="{{ site.description }}">
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@nithinbekal">
-    <meta name="twitter:creator" content="@nithinbekal">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image" content="https://s3.amazonaws.com/nithinbekal.com/word-cloud.png">
-    <meta property="og:image" content="https://s3.amazonaws.com/nithinbekal.com/word-cloud.png" />
-
     <title>{{ page.title }}</title>
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     <link rel="stylesheet" href="/css/main.css">
     {% include analytics.html %}
@@ -26,7 +17,7 @@
       <div class='header'>
         <span class='site-title'><a href='/'>{{ site.name }}</a></span>
         <span class='links align-right'>
-          <a class='top-nav-link' href='/about/'>About</a>
+          <a class='top-nav-link' href='/about'>About</a>
         </span>
       </div>
 

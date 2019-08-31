@@ -106,20 +106,19 @@ a:hover { text-decoration: underline; }
   line-height: 1.8em;
   margin: 60px 0;
 }
+.site .about .content {
+  margin: 0 0;
+}
 .site .post .content p  { margin: 20px 0; }
 .site .post .content h1 { margin: 20px 0 0 0; }
-.site .post .content h2 { font-size: 0.9em; }
 .site .post .content ul,
 .site .post .content ol { margin: 20px 30px; }
 
 .site .post .content ul ul { margin: 5px 0 10px 20px; }
 
-.site .post .content h1 { font-size: 1.6em; margin: 1.6em 0 0.6em 0; }
-.site .post .content h2 { font-size: 1.5em; margin: 1.5em 0 0.5em 0; }
-.site .post .content h3 { font-size: 1.4em; margin: 1.4em 0 0.4em 0; }
-.site .post .content h4 { font-size: 1.3em; margin: 1.3em 0 0.3em 0; }
-.site .post .content h5 { font-size: 1.2em; margin: 1.2em 0 0.2em 0; }
-.site .post .content h6 { font-size: 1.1em; margin: 1.1em 0 0.1em 0; }
+.site .post .content h1 { font-size: 1.8em; margin: 1.8em 0 0.8em 0; }
+.site .post .content h2 { font-size: 1.4em; margin: 1.4em 0 0.4em 0; }
+.site .post .content h3 { font-size: 1.2em; margin: 1.2em 0 0.2em 0; }
 
 .site .post .content code {
   background: #f7f7f7;
@@ -157,60 +156,6 @@ a:hover { text-decoration: underline; }
 
 #post-footer { margin-bottom: 50px; }
 
-#author-bio {
-  border-top: 3px solid #eee;
-  font-size: 0.9em;
-  line-height: 1.6em;
-  padding: 60px 0px;
-  position: relative;
-
-  .gravatar {
-    margin: -42px 0 0 -42px;
-    position: absolute; top: 0; left: 50%;
-  }
-
-  .gravatar img {
-    background: #fff;
-    border: 1px solid #ccc;
-    border-radius: 50%;
-    height: 80px;
-    padding: 4px;
-    width: 80px;
-  }
-  .bio a { color: #007499; }
-  .links { text-align: center; }
-  .links a { padding: 0 10px; }
-}
-
-.subscribe {
-  background: #f9f9fa;
-  color: #888;
-  padding: 30px 20px;
-}
-
-.subscribe-form {
-  clear: both;
-  padding: 20px 0;
-
-  input { font-size: 13px; }
-}
-
-.subscribe-email {
-  padding: 8px;
-  width: 50%;
-
-  &:focus { outline: 0; }
-}
-
-.subscribe-submit {
-  background: #eee;
-  border: 1px solid #bbb;
-  color: #777;
-  height: 36px;
-  width: 25%;
-
-  &:hover { background: #ddd; }
-}
 
 #prev-next-nav {
   font-size: 0.9em;
