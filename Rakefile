@@ -7,7 +7,7 @@ task :post do
     ---
     layout: post
     title: \"#{meta[:title]}\"
-    date:  #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
+    date:  #{Time.now.strftime('%Y-%m-%d')}
     ---
   EOF
   File.open(path, 'w') { |f| f << text }
