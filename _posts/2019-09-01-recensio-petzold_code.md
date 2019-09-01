@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Код. Тайный язык информатики"
-date:  2019-09-01
+date:  2019-09-01 00:00:02
 image: recensio-petzold-code.png
 ---
 
