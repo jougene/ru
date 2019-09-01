@@ -9,7 +9,9 @@
     <title>{{ page.title }}</title>
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-    <meta property="og:image" content="https://habrastorage.org/webt/7i/xt/ku/7ixtku_os5kdy9emls1hfaij-zo.png" />
+    <meta property="og:image" content="/assets/me_site.png" />
+    <meta property="og:image:width" content="1280" />
+    <meta property="og:image:height" content="720" />
     <link rel="stylesheet" href="/css/main.css">
     {% include analytics.html %}
   </head>
@@ -25,6 +27,11 @@
 
       <div class='site'>
         {{ content }}
+        <hr>
+        <button class="up" onclick="(() => {
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+        })()">наверх</button>
       </div> <!-- /site -->
 
       <div class='footer'>
