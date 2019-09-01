@@ -1,6 +1,7 @@
 name: Сергей Мелодин
 title: Сергей Мелодин
-description: "Писатель кода, статей, стихов."
+description: "Сергей Мелодин. Писатель... кода и статей."
+image: me_site.png
 url: https://melodyn.ru
 highlighter: rouge
 permalink: /posts/:title/
