@@ -118,7 +118,16 @@ button.up:hover {
   line-height: 1.4em;
   padding: 30px 0 20px 0;
 }
-.site .post .meta {
+.site .post .tags {
+  color: #4d4d4d;
+  font-size: 0.8em;
+  border: 1px solid #e6e6e6;
+  background: #fafafa;
+  padding: 8px;
+  display: inline-block;
+  margin-top: 16px;
+}
+.site .post .date {
   color: #666;
   font-size: 0.9em;
 }
@@ -126,12 +135,15 @@ button.up:hover {
 .site .post .content    {
   font-family: $main-font-stack;
   line-height: 1.8em;
-  margin: 60px 0;
+  margin: 40px 0;
 }
 .site .about .content {
   margin: 0 0;
 }
-.site .post .content p  { margin: 20px 0; }
+.site .post .content p  {
+  margin: 20px 0;
+  white-space: pre-line;
+}
 .site .post .content h1 { margin: 20px 0 0 0; }
 .site .post .content ul,
 .site .post .content ol { margin: 20px 30px; }
